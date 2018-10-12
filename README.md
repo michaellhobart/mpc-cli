@@ -1,1 +1,1 @@
-https://x-team.com/blog/a-guide-to-creating-a-nodejs-command/
+<h1>CLI for MPC</h1>
